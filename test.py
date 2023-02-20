@@ -1,1 +1,1 @@
-print('netu shutok :(')
+print('budut shutki :)')
